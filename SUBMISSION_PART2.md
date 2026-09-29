@@ -1,5 +1,7 @@
 # SUBMISSION — PART II (Post-midterm + final portfolio, 60 pts)
 
+**Student:** Đặng Võ Minh Nhựt — 2452930 · CO3117 HK261
+
 **Deadline:** exactly 2 calendar days before the official final exam (date: `<fill in>`) · **Tag:** `part2-final` · **Commit:** `<hash>`
 
 ## Checklist

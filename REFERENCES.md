@@ -16,7 +16,7 @@ List only sources actually used; cite chapter/section, notebook, or file/functio
 - [8] S. Marsland, *Machine Learning: An Algorithmic Perspective*, CRC, 2009.
 
 ## Code repositories (read only AFTER own first attempt)
-- [9] E. Linder-Norén, ML-From-Scratch — https://github.com/eriklindernoren/ML-From-Scratch (commit: `<hash used>`)
+- [9] E. Linder-Norén, ML-From-Scratch — https://github.com/eriklindernoren/ML-From-Scratch (commit: `a2806c6`, 2019-10-18 — local clone at `../ML-From-Scratch`)
 - [10] D. Bourgin, numpy-ml — https://github.com/ddbourgin/numpy-ml (commit: `<hash used>`)
 - [11] ProbML, pyprobml — https://github.com/probml/pyprobml (commit: `<hash used>`)
 - [13] scikit-learn — https://scikit-learn.org/stable/ (version in `requirements.txt`)

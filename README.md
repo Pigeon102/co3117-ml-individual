@@ -4,7 +4,8 @@
 
 | Item | Value |
 | --- | --- |
-| Student | _<full name> — <student ID>_ |
+| Student | Đặng Võ Minh Nhựt — 2452930 |
+| Course | CO3117 Machine Learning, HK261, Faculty of CSE — HCMUT, VNU-HCM |
 | Use case | Predict a person's current physical activity from smartphone inertial measurements; for HMM/CRF, use temporal continuity to smooth the same activity labels. |
 | Dataset | UCI Human Activity Recognition Using Smartphones (dataset id 240), https://archive.ics.uci.edu/dataset/240 |
 | Target | `activity` — 6 classes: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING |

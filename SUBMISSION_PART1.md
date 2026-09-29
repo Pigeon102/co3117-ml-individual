@@ -1,5 +1,7 @@
 # SUBMISSION — PART I (Pre-midterm portfolio, 40 pts)
 
+**Student:** Đặng Võ Minh Nhựt — 2452930 · CO3117 HK261
+
 **Deadline:** 14 October 2026 (LMS cutoff overrides) · **Tag:** `part1-final` · **Commit:** `<hash>`
 
 After tagging, Part I is frozen. Later corrections go to `PART1_ERRATA.md` / `exam/midterm-reflection.md` (Part II).
