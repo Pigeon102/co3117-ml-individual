@@ -1,0 +1,7 @@
+site_name: CO3117 ML Individual Portfolio
+docs_dir: docs
+nav:
+  - Home: index.md
+  - Pre-release catch-up: pre-release/PRE_RELEASE_CATCHUP.md
+  - Weekly:
+      - W05 Perceptron / Delta: weekly/w05-perceptron-delta.md

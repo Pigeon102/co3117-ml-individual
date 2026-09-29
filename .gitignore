@@ -1,0 +1,19 @@
+# data (downloaded, never committed)
+data/raw/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# mkdocs build
+site/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
